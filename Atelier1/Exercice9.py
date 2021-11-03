@@ -6,8 +6,3 @@ def couple(mat,elem):  # FONCTION QUI RENVOIE LE COUPLE D'UN ELEMENT (elem) DANS
 # NOTANT QUE L'INDICE COMMENCE PAR 0
 
 
-print("Soit la matrice : ")
-M = [[3, 1, 5], [9, 8, -1], [10, 12, 2]]
-print(M)
-print("la position de -1 est : ",end=' ')
-couple(M,-1)

@@ -7,6 +7,3 @@ def occu(string,char):  # DEUX ARGUMENTS : LA CHAINE ET LE CHARACTERE A CHERCHER
     i=i+1   # CHARACHTERE SUIVANT DU CHAINE
   return k  
 
-chaine=('Faculte de science et technique Tanger')
-print(chaine)
-print("Occurence du 'e' est : ",occu(chaine,'e'))
